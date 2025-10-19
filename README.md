@@ -1,12 +1,9 @@
 # Hi 👋, I'm Ayesha Kanwal
 
 ## 🚀 About Me
-I’m a passionate Software Engineer with a strong focus on Python and web development. I love building smart solutions and exploring new technologies. Always eager to tackle new challenges and collaborate on exciting projects!
+I’m a passionate Software Engineer with a strong focus on Python, ML and web development. I love building smart solutions and exploring new technologies. Always eager to tackle new challenges and collaborate on exciting projects!
 
-## 🔭 I’m Currently Working On
-- PSEB Apprenticeship Program provided by Govt of Pakistan
-
-## 🌱 I’m Currently Learning
+## 🌱 I’m Currently working
 - **Advanced Python Frameworks**: Deepening knowledge in Django, Flask, and other frameworks.  
 - **AI and Machine Learning**: Exploring new libraries and techniques in AI.
 
@@ -15,9 +12,11 @@ I’m a passionate Software Engineer with a strong focus on Python and web devel
 - **SQL**  
 - **RASA**
 - **AI**
+- **REACT**
+- **DJANGO**
 
 ## 📫 How to Reach Me
-- Email: (mailto:fatimakanwal000001@gmail.com)
+- Email: (mailto:ayesha.kanwalaka@gmail.com)
 
 ## 👨‍💻 All of My Projects Are Available At
 - **[https://github.com/AyeshaKanwal3?tab=repositories](#)**
